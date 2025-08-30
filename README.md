@@ -28,7 +28,7 @@ To run this project, you need to have Python and pip installed.
 Installation
 Clone the repository:
 
-git clone [YOUR_GITHUB_REPOSITORY_URL]
+git clone [https://github.com/Ashish9275/Travel-Booking-System-.git]
 cd travel_booking_system
 
 
