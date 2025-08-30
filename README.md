@@ -1,5 +1,5 @@
 # Travel-Booking-System-
-ravel Booking System (Django) Project Overview The Travel Booking System is a comprehensive full-stack web application meticulously crafted using the Django framework. It provides a robust, functional, and user-friendly platform for managing the end-to-end process of booking various modes of travel, including flights, trains, and buses.
+Travel Booking System (Django) Project Overview The Travel Booking System is a comprehensive full-stack web application meticulously crafted using the Django framework. It provides a robust, functional, and user-friendly platform for managing the end-to-end process of booking various modes of travel, including flights, trains, and buses.
 Travel Booking System (Django)
 Project Overview
 The Travel Booking System is a comprehensive full-stack web application meticulously crafted using the Django framework. It provides a robust, functional, and user-friendly platform for managing the end-to-end process of booking various modes of travel, including flights, trains, and buses. The system is designed to address common inefficiencies in traditional booking methods by providing a streamlined, automated, and centralized solution.
